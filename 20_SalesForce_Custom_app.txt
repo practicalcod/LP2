@@ -28,7 +28,6 @@
 16. Click Save and Finish.
 17. Click the App Launcher (9-dot icon) in the top-left.
 18. Search for your newly created app by name.
-19. Click the app hyperlink to open it.
-20. Use the tabs like Accounts, Opportunities, etc., to start entering or editing data.
-
-
+19. Click on New Button and create the user.
+20. Click the app hyperlink to open it.
+21. Use the tabs like Accounts, Opportunities, etc., to start entering or editing data.
